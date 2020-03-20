@@ -1,4 +1,4 @@
-package imageManageTool;
+package imageManageToolJavaFx;
 
 import javafx.application.Application;
 import javafx.stage.Stage;

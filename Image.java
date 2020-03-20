@@ -1,4 +1,4 @@
-package imageManageTool;
+package imageManageToolJavaFx;
 
 import javax.imageio.*;
 import java.awt.image.*;
